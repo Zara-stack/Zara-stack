@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+my name is Zahra Alsolais , i'm an AI student who is all about python, data analyst and machine learning. 
+- 🔭 I'm Building REST APIs using ASP.NET Core and PostgreSQL
+- 🌱 I'm Currently improving my Full Stack Development skills
+-  📚 Interested in AI, Software Development, and Data Science
+- 🚀 Check out my university and personal projects in my repositories
+- 📫 Reach me through GitHub
 <!--
 **Zara-stack/Zara-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
